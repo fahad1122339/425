@@ -1,0 +1,2 @@
+keytool -list -v -keystore %USERPROFILE%\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+ EE:77:75:F9:E0:E9:BB:CB:51:85:6B:DD:C7:94:CB:5B:9E:19:F6:3F
